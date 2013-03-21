@@ -1,3 +1,9 @@
+Constituciones del Perú
+
+	CC-BY-SA-3.0 (a Free Culture License)
+	Attribution-ShareAlike 3.0 Unported 
+	http://creativecommons.org/licenses/by-sa/3.0/
+
 El texto de las constituciones ha sido normalizado de la siguiente forma:
 
 - s/Art\./Artículo/
