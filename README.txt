@@ -1,5 +1,11 @@
 Constituciones del Perú
 
+Fuente: http://www.leyes.congreso.gob.pe/constituciones.aspx
+
+- Los archivos originales en formato PDF fueron convertidos a texto usando el comando 'pdftotext' parte de los 'xpdf tools' en Linux.
+
+Licencia de estos datos:
+
 	CC-BY-SA-3.0 (a Free Culture License)
 	Attribution-ShareAlike 3.0 Unported 
 	http://creativecommons.org/licenses/by-sa/3.0/
